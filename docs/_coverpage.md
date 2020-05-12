@@ -7,6 +7,6 @@
 > **and supports Turing complete smart contracts.** 
 
 
-[GitHub](https://github.com/sero-cash/) [Get Started](http://localhost:3000/#/en-us/)
+[GitHub](https://github.com/sero-cash/) [Get Started](http://localhost:3000/#/en-us/ ':target="_self"')
 
 ![color](#fff)
