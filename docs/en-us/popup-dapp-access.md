@@ -115,7 +115,7 @@ seropp.init(dapp,function (rest) {
 
 - In the Popup wallet, open "Apps" and enter the address of the DApp.
 
-![image.png](https://sero-media.s3-ap-southeast-1.amazonaws.com/images/jianshu/13141677-3cbed5aa9cca490a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](../_media/img/13141677-3cbed5aa9cca490a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - Core method
 
@@ -233,23 +233,23 @@ execute = () => {
 
 - Hello Dapp Home page
 
-![image.png](https://sero-media.s3-ap-southeast-1.amazonaws.com/images/jianshu/13141677-11672b169285cb3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](../_media/img/13141677-11672b169285cb3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - Load account
 
-![image.png](https://sero-media.s3-ap-southeast-1.amazonaws.com/images/jianshu/13141677-c499af2e0a5c45bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](../_media/img/13141677-c499af2e0a5c45bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - Load contract and execute contract
 
-![image.png](https://sero-media.s3-ap-southeast-1.amazonaws.com/images/jianshu/13141677-f0958f64e3c9a841.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](../_media/img/13141677-f0958f64e3c9a841.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - Confirm transaction information (components of SERO Popup, no separate development required)
 
-![image.png](https://sero-media.s3-ap-southeast-1.amazonaws.com/images/jianshu/13141677-f56b53c5a2021b16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](../_media/img/13141677-f56b53c5a2021b16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - Popup password input box (component of SERO Popup, no need to develop separately)
 
-![image.png](https://sero-media.s3-ap-southeast-1.amazonaws.com/images/jianshu/13141677-97e1321a827b6b67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](../_media/img/13141677-97e1321a827b6b67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### Reference material
 
